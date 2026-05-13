@@ -1,2 +1,11 @@
+# Python virtual environment
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Великі датасети
+*.csv
+
+# macOS
 .DS_Store
-# Ignore .ds_store files
